@@ -1,0 +1,6 @@
+Applications:
+    recrystallization:
+        app_types:
+            - RecrystallizationApp
+        content_directory: ${ROOT_DIR}/doc/content
+        log_default: WARNING
