@@ -7,13 +7,13 @@
 [Mesh]
     type        = GeneratedMesh
     dim         = 2
-    nx          = 60
-    ny          = 60
+    nx          = 100
+    ny          = 100
     xmin        = 0
-    xmax        = 12
+    xmax        = 20
     ymin        = 0
-    ymax        = 12
-    elem_type   = Quad4
+    ymax        = 20
+    # elem_type   = Quad4
   []
   
   [GlobalParams]
